@@ -1,14 +1,12 @@
-﻿# Tugas Ke - 1
-
-## Machine Learning Dasar
+# Machine Learning Dasar
 
 Ini adalah contoh implementasi **Machine Learning dasar** menggunakan dataset yang umum digunakan sebagai pembelajaran, yaitu **Dataset Titanic**.
 
-##  Dataset
+## 📁 Dataset
 
 - **Titanic Dataset** - Dataset klasik untuk memprediksi keselamatan penumpang kapal Titanic
 
-##  Tools
+## 🛠️ Tools
 
 - Python
 - Scikit-learn
@@ -16,7 +14,7 @@ Ini adalah contoh implementasi **Machine Learning dasar** menggunakan dataset ya
 - Matplotlib & Seaborn
 - Jupyter Notebook
 
-##  File
+## 📂 File
 
 | File | Deskripsi |
 |------|-----------|
@@ -27,8 +25,6 @@ Ini adalah contoh implementasi **Machine Learning dasar** menggunakan dataset ya
 ## Catatan:
 
 Mohon maaf Bapak/Ibu, untuk file dengan format .ipynb tidak dapat ditampilkan secara langsung melalui GitHub. Oleh karena itu, file tersebut perlu diunduh terlebih dahulu agar dapat dilihat dan dijalankan menggunakan Jupyter Notebook, Google Colab atau tools sejenis.
-
----
 
 # Tugas Ke - 2
 
@@ -68,11 +64,3 @@ Video ini memberikan panduan teknis bagi pemula dalam membangun sistem **Interne
   - Mengendalikan perangkat melalui antarmuka digital yang sederhana
 
 ---
-
-###  Deadline
-
-Tugas dikumpulkan paling lambat: **Ahad, 28 Desember 2025**
-
-###  Pengumpulan
-
-Kirim resume ke email: **makerdotindo@gmail.com**
